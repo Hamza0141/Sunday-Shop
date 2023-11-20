@@ -12,5 +12,4 @@ app.use(userRoute);
 
 app.listen(port,()=>{
     console.log(`app listing on ${port}`)
-
 })
