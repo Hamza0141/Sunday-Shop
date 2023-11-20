@@ -3,7 +3,6 @@ app = express()
 const port =4000;
 const pool = require("./Config/database")
 
-
 app.use(express.json());
 
 
